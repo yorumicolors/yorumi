@@ -1,0 +1,35 @@
+# Yorumi Abyss colors
+
+[colors.primary]
+background = "#060914"
+foreground = "#bdbfcb"
+
+[colors.normal]
+black = "#121520"
+red = "#f05c60"
+green = "#80aa6e"
+yellow = "#ba9a5e"
+blue = "#597bc0"
+magenta = "#b4647f"
+cyan = "#7aa8a7"
+white = "#a7a9b5"
+
+[colors.bright]
+black = "#1d202b"
+red = "#f47171"
+green = "#9cb67d"
+yellow = "#d6b476"
+blue = "#788ad3"
+magenta = "#da72a2"
+cyan = "#85c7b8"
+white = "#c6dfec"
+
+[colors.dim]
+black = "#0c0f1a"
+red = "#913b3b"
+green = "#667c4b"
+yellow = "#9d672f"
+blue = "#42778a"
+magenta = "#8d3f5a"
+cyan = "#49837e"
+white = "#878996"
