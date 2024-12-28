@@ -1,0 +1,22 @@
+background = 060914
+foreground = BDBFCB
+selection-background = 343742
+selection-foreground = BDBFCB
+cursor-color = 878996
+
+palette = 0=#060914
+palette = 1=#C65E53
+palette = 2=#8CB167
+palette = 3=#C39D55
+palette = 4=#597BC0
+palette = 5=#BB5D7D
+palette = 6=#67BBB9
+palette = 7=#BDBFCB
+palette = 8=#343742
+palette = 9=#F47571
+palette = 10=#A9D07C
+palette = 11=#E1C084
+palette = 12=#798DDC
+palette = 13=#E184AF
+palette = 14=#85E0CB
+palette = 15=#D7E1B7
